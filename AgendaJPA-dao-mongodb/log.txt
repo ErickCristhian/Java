@@ -1,0 +1,87 @@
+[EL Fine]: server: 2019-12-11 17:34:26.853--Thread(Thread[main,5,main])--Configured server platform: org.eclipse.persistence.platform.server.NoServerPlatform
+[EL Config]: metadata: 2019-12-11 17:34:27.276--ServerSession(1582797472)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Pessoa] is set to [FIELD].
+[EL Config]: metadata: 2019-12-11 17:34:27.354--ServerSession(1582797472)--Thread(Thread[main,5,main])--The target entity (reference) class for the one to many mapping element [field telefones] is being defaulted to: class modelo.Telefone.
+[EL Config]: metadata: 2019-12-11 17:34:27.359--ServerSession(1582797472)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Aluno] is set to [FIELD].
+[EL Config]: metadata: 2019-12-11 17:34:27.36--ServerSession(1582797472)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Professor] is set to [FIELD].
+[EL Config]: metadata: 2019-12-11 17:34:27.361--ServerSession(1582797472)--Thread(Thread[main,5,main])--The access type for the persistent class [class modelo.Telefone] is set to [FIELD].
+[EL Config]: metadata: 2019-12-11 17:34:27.363--ServerSession(1582797472)--Thread(Thread[main,5,main])--The target entity (reference) class for the many to one mapping element [field pessoa] is being defaulted to: class modelo.Pessoa.
+[EL Config]: metadata: 2019-12-11 17:34:27.364--ServerSession(1582797472)--Thread(Thread[main,5,main])--The alias name for the entity class [class modelo.Aluno] is being defaulted to: Aluno.
+[EL Config]: metadata: 2019-12-11 17:34:27.364--ServerSession(1582797472)--Thread(Thread[main,5,main])--The alias name for the entity class [class modelo.Pessoa] is being defaulted to: Pessoa.
+[EL Config]: metadata: 2019-12-11 17:34:27.411--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [nome] is being defaulted to: NOME.
+[EL Config]: metadata: 2019-12-11 17:34:27.414--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [sexo] is being defaulted to: SEXO.
+[EL Config]: metadata: 2019-12-11 17:34:27.421--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [dtcadastro] is being defaulted to: DTCADASTRO.
+[EL Config]: metadata: 2019-12-11 17:34:27.421--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [versao] is being defaulted to: VERSAO.
+[EL Config]: metadata: 2019-12-11 17:34:27.425--ServerSession(1582797472)--Thread(Thread[main,5,main])--The target entity (reference) class for the one to many mapping element [field telefones] is being defaulted to: class modelo.Telefone.
+[EL Config]: metadata: 2019-12-11 17:34:27.426--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [nome] is being defaulted to: NOME.
+[EL Config]: metadata: 2019-12-11 17:34:27.427--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [sexo] is being defaulted to: SEXO.
+[EL Config]: metadata: 2019-12-11 17:34:27.427--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [nota] is being defaulted to: NOTA.
+[EL Config]: metadata: 2019-12-11 17:34:27.427--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [dtcadastro] is being defaulted to: DTCADASTRO.
+[EL Config]: metadata: 2019-12-11 17:34:27.428--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [versao] is being defaulted to: VERSAO.
+[EL Config]: metadata: 2019-12-11 17:34:27.428--ServerSession(1582797472)--Thread(Thread[main,5,main])--The alias name for the entity class [class modelo.Professor] is being defaulted to: Professor.
+[EL Config]: metadata: 2019-12-11 17:34:27.43--ServerSession(1582797472)--Thread(Thread[main,5,main])--The target entity (reference) class for the one to many mapping element [field telefones] is being defaulted to: class modelo.Telefone.
+[EL Config]: metadata: 2019-12-11 17:34:27.43--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [salario] is being defaulted to: SALARIO.
+[EL Config]: metadata: 2019-12-11 17:34:27.431--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [nome] is being defaulted to: NOME.
+[EL Config]: metadata: 2019-12-11 17:34:27.432--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [sexo] is being defaulted to: SEXO.
+[EL Config]: metadata: 2019-12-11 17:34:27.432--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [dtcadastro] is being defaulted to: DTCADASTRO.
+[EL Config]: metadata: 2019-12-11 17:34:27.433--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [versao] is being defaulted to: VERSAO.
+[EL Config]: metadata: 2019-12-11 17:34:27.433--ServerSession(1582797472)--Thread(Thread[main,5,main])--The alias name for the entity class [class modelo.Telefone] is being defaulted to: Telefone.
+[EL Config]: metadata: 2019-12-11 17:34:27.433--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [numero] is being defaulted to: NUMERO.
+[EL Config]: metadata: 2019-12-11 17:34:27.434--ServerSession(1582797472)--Thread(Thread[main,5,main])--The column name for element [versao] is being defaulted to: VERSAO.
+[EL Config]: metadata: 2019-12-11 17:34:27.452--ServerSession(1582797472)--Thread(Thread[main,5,main])--The primary key column name for the mapping element [field pessoa] is being defaulted to: _id.
+[EL Config]: metadata: 2019-12-11 17:34:27.452--ServerSession(1582797472)--Thread(Thread[main,5,main])--The foreign key column name for the mapping element [pessoa] is being defaulted to: PESSOA__id.
+[EL Config]: metadata: 2019-12-11 17:34:27.482--ServerSession(1582797472)--Thread(Thread[main,5,main])--The primary key column name for the mapping element [field telefones] is being defaulted to: _id.
+[EL Config]: metadata: 2019-12-11 17:34:27.482--ServerSession(1582797472)--Thread(Thread[main,5,main])--The foreign key column name for the mapping element [telefones] is being defaulted to: TELEFONES__id.
+[EL Config]: metadata: 2019-12-11 17:34:27.483--ServerSession(1582797472)--Thread(Thread[main,5,main])--The primary key column name for the mapping element [field telefones] is being defaulted to: _id.
+[EL Config]: metadata: 2019-12-11 17:34:27.484--ServerSession(1582797472)--Thread(Thread[main,5,main])--The foreign key column name for the mapping element [telefones] is being defaulted to: TELEFONES__id.
+[EL Config]: metadata: 2019-12-11 17:34:27.484--ServerSession(1582797472)--Thread(Thread[main,5,main])--The primary key column name for the mapping element [field telefones] is being defaulted to: _id.
+[EL Config]: metadata: 2019-12-11 17:34:27.485--ServerSession(1582797472)--Thread(Thread[main,5,main])--The foreign key column name for the mapping element [telefones] is being defaulted to: TELEFONES__id.
+[EL Info]: 2019-12-11 17:34:27.567--ServerSession(1582797472)--Thread(Thread[main,5,main])--EclipseLink, version: Eclipse Persistence Services - 2.7.5.v20191016-ea124dd158
+[EL Config]: connection: 2019-12-11 17:34:27.571--ServerSession(1582797472)--Connection(1684015092)--Thread(Thread[main,5,main])--connecting(EISLogin(
+	platform=> MongoPlatform
+	user name=> ""
+	MongoConnectionSpec()
+))
+[EL Config]: connection: 2019-12-11 17:34:30.063--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--Connected: 
+	User: 
+	Database: 4.2.2  Version: 4.2.2
+[EL Info]: connection: 2019-12-11 17:34:30.186--ServerSession(1582797472)--Thread(Thread[main,5,main])--/file:/C:/Users/IFPB/Dropbox/aula-copratilhada/POB/ProjetosBDNC-MOR - novo/AgendaJPA-dao-mongodb/target/classes/_agenda login successful
+[EL Fine]: sql: 2019-12-11 17:34:30.793--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--Executing MappedInteraction()
+	spec => null
+	properties => {mongo.operation=FIND, mongo.collection=PESSOA}
+	input => [DatabaseRecord(
+	PESSOA.NOME => DatabaseRecord(
+	$regex => ^.*jo.*$))]
+[EL Fine]: sql: 2019-12-11 17:34:30.893--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--Executing MappedInteraction()
+	spec => null
+	properties => {mongo.operation=FIND, mongo.collection=ALUNO}
+	input => [DatabaseRecord(
+	ALUNO.NOME => DatabaseRecord(
+	$regex => ^.*jo.*$))]
+[EL Fine]: sql: 2019-12-11 17:34:30.899--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--Executing MappedInteraction()
+	spec => null
+	properties => {mongo.operation=FIND, mongo.collection=PROFESSOR}
+	input => [DatabaseRecord(
+	PROFESSOR.NOME => DatabaseRecord(
+	$regex => ^.*jo.*$))]
+[EL Fine]: sql: 2019-12-11 17:34:30.919--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--Executing MappedInteraction()
+	spec => null
+	properties => {mongo.operation=FIND, mongo.collection=TELEFONE}
+	input => [DatabaseRecord(
+	TELEFONE._id => 5DF15069E6B0CF498A4F12F6)]
+[EL Fine]: sql: 2019-12-11 17:34:30.926--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--Executing MappedInteraction()
+	spec => null
+	properties => {mongo.operation=FIND, mongo.collection=TELEFONE}
+	input => [DatabaseRecord(
+	TELEFONE._id => 5DF15069E6B0CF498A4F12F7)]
+[EL Fine]: sql: 2019-12-11 17:34:30.938--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--Executing MappedInteraction()
+	spec => null
+	properties => {mongo.operation=FIND, mongo.collection=TELEFONE}
+	input => [DatabaseRecord(
+	TELEFONE._id => 5DF15069E6B0CF498A4F12FC)]
+[EL Warning]: 2019-12-11 17:34:30.968--UnitOfWork(305502850)--Thread(Thread[main,5,main])--Exception [EclipseLink-6168] (Eclipse Persistence Services - 2.7.5.v20191016-ea124dd158): org.eclipse.persistence.exceptions.QueryException
+Exception Description: Query failed to prepare, unexpected error occurred: [java.lang.ClassCastException: org.eclipse.persistence.nosql.adapters.mongo.MongoPlatform cannot be cast to org.eclipse.persistence.platform.database.DatabasePlatform].
+Internal Exception: java.lang.ClassCastException: org.eclipse.persistence.nosql.adapters.mongo.MongoPlatform cannot be cast to org.eclipse.persistence.platform.database.DatabasePlatform
+Query: ReadAllQuery(referenceClass=Pessoa jpql="select p from Pessoa p join p.telefones t where t.numero= :x")
+[EL Config]: connection: 2019-12-11 17:34:30.974--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--disconnect
+[EL Info]: connection: 2019-12-11 17:34:30.976--ServerSession(1582797472)--Thread(Thread[main,5,main])--/file:/C:/Users/IFPB/Dropbox/aula-copratilhada/POB/ProjetosBDNC-MOR - novo/AgendaJPA-dao-mongodb/target/classes/_agenda logout successful
+[EL Config]: connection: 2019-12-11 17:34:30.976--ServerSession(1582797472)--Connection(101775274)--Thread(Thread[main,5,main])--disconnect

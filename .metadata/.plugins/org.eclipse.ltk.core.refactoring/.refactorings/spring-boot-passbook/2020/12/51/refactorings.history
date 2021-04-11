@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-boot-passbook/src/main/resources/templates/fragments/footerinc.html&apos; to &apos;footer.html&apos;" description="Rename resource &apos;footerinc.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/fragments/footerinc.html" name="footer.html" stamp="1607893431996" updateReferences="true"/>
+</session>

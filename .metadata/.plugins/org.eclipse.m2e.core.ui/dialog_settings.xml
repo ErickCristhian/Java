@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Erick-user\Desktop\pratica\WebsocketTutorial"/>
+			<item value="C:\Users\Erick-user\Desktop\pratica\messaging-stomp-websocket"/>
 			<item value="C:\Users\Erick-user\Documents\GitHub\Java"/>
 		</list>
 		<list key="projectNameTemplate">
